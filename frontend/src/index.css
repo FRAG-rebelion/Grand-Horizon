@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@tailwind utilities;
+@theme {
+    --color-BG: #FAFAFA;         /* Soft off-white for a clean, modern background */
+    --color-prime: #2C3E50;      /* Deep slate blue for a strong, sophisticated primary color */
+    --color-second: #E67E22;     /* Warm orange for accents and highlights (evokes warmth and luxury) */
+    --color-text: #34495E;       /* Dark blue-gray for readable, modern text */
+    --color-H: #16A085;          /* Teal green for fresh, modern highlights */
+    --color-BC: #FFFFFF;         /* Pure white for crisp accents and contrast */
+  }
